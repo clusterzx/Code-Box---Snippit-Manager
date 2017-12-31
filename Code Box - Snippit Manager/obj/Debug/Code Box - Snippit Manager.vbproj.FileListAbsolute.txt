@@ -1,0 +1,20 @@
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\Code Box - Snippit Manager.exe.config
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\Code Box - Snippit Manager.exe
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\Code Box - Snippit Manager.pdb
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\Code Box - Snippit Manager.xml
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\obj\Debug\Code_Box___Snippit_Manager.Form1.resources
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\obj\Debug\Code_Box___Snippit_Manager.Resources.resources
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\obj\Debug\Code Box - Snippit Manager.vbproj.GenerateResource.Cache
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\obj\Debug\Code Box - Snippit Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\obj\Debug\Code Box - Snippit Manager.exe
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\obj\Debug\Code Box - Snippit Manager.xml
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\obj\Debug\Code Box - Snippit Manager.pdb
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\EntityFramework.dll
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\EntityFramework.xml
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dennis\source\repos\Code Box - Snippit Manager\Code Box - Snippit Manager\bin\Debug\System.Data.SQLite.dll.config
